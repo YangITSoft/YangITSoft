@@ -1,3 +1,4 @@
-<h1>Yangsoft</h1>
+<h1>YangITsoft</h1>
 Focusing on software development<br>
-专注于软件开发
+yangITsoft brief introduction<br>
+YangITsoft wax Establish in may,2023<br>
